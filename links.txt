@@ -12,6 +12,9 @@ Boot disk
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/Boot_disk
 
+Ultimate Boot CD (UBCD) <== This could be the tool to use.
+http://www.ultimatebootcd.com 
+
 Boot and run Linux from a USB flash memory stick
 http://www.pendrivelinux.com/
 
