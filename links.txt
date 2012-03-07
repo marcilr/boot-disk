@@ -1,0 +1,14 @@
+links.txt
+Created Wed Mar  7 06:50:48 AKST 2012
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Boot disk related links.
+
+
+Links
+=====
+Boot disk
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Boot_disk
+
