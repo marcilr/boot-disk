@@ -12,3 +12,20 @@ Boot disk
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/Boot_disk
 
+Bart's Boot disks
+http://www.nu2.nu/bootdisk/
+
+What is a boot disk (startup disk) and why would I need one?
+http://windows.microsoft.com/en-US/windows-vista/What-is-a-boot-disk-startup-disk-and-why-would-I-need-one
+
+Perhaps some good info here.
+http://www.bootdisk.info/
+
+Make a bootable USB installer for Windows 7, Vista or XP with WinToFlash
+http://www.bootdisk.info/comments.php?id=35&catid=1
+
+WinToFlash
+WinToFlash starts a wizard that will help pull over the contents of a windows installation
+CD or DVD and prep the USB drive to become a bootable replacement for the optical drive.
+It can also do this with your LiveCD.
+http://wintoflash.com/home/en/
