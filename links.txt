@@ -12,6 +12,26 @@ Boot disk
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/Boot_disk
 
+Boot and run Linux from a USB flash memory stick
+http://www.pendrivelinux.com/
+
+Installing Linux on USB - Part 6: Create a DOS and Linux bootable USB flash drive
+In this part we will learn how to create a USB flash drive which can boot into Linux and
+DOS both using GRUB.
+http://linux.koolsolutions.com/2009/02/11/installing-linux-on-usb-part-6-create-a-dos-and-linux-bootable-usb-flash-drive/
+
+YUMI - Multiboot USB Creator (Windows)
+YUMI (Your Universal Multiboot Installer), is the successor to MultibootISOs.  It can be used to
+create a Multiboot USB Flash Drive containing multiple operating systems, antivirus utilities,
+disc cloning, diagnostic tools, and more. Contrary to MultiBootISO's which used grub to boot ISO
+files directly from USB, YUMI uses syslinux to boot extracted distributions stored on the USB
+device, and reverts to using grub to Boot Multiple ISO files from USB, if necessary.
+http://www.pendrivelinux.com/yumi-multiboot-usb-creator/
+
+Universal USB Installer is a Live Linux USB Creator that allows you to choose from a
+selection of Linux Distributions to put on your USB Flash Drive.
+http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
+
 Bart's Boot disks
 http://www.nu2.nu/bootdisk/
 
