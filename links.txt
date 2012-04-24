@@ -12,6 +12,12 @@ Boot disk
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/Boot_disk
 
+YUMI - Multiboot USB Creator (Windows)
+http://www.pendrivelinux.com/yumi-multiboot-usb-creator/
+
+Universal USB Installer - Easy as 1 2 3 3 (windows)
+http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
+
 S.M.A.R.T. Linux is a bootable floppy distribution containing tool (smartmontools) for monitoring 
 IDE/SCSI hard disks 
 Good lists of software
