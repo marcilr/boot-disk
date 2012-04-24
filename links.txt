@@ -12,6 +12,40 @@ Boot disk
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/Boot_disk
 
+Damn Small Linux
+http://www.damnsmalllinux.org/
+
+Damn Small Linux
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Damn_Small_Linux
+
+Puppy Linux
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Puppy_Linux
+
+How to obtain and install flash-Puppy
+http://www.puppylinux.com/flash-puppy.htm
+
+Woof (software)
+From Wikipedia, the free encyclopedia
+Woof is a software application used to build a Puppy Linux distribution from another Linux
+distribution.[1][2][3] This application must be run inside Puppy Linux, and an internet connection
+is required in order to download the other Linux distro's binary packages.[citation needed]
+Supports building from debian.
+http://en.wikipedia.org/wiki/Woof_%28software%29
+
+Lightweight Linux distribution
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Lightweight_Linux_distribution#cite_note-Lynch01Jul09-12
+
+review of several thumb drive Linux distributions
+Damn Small Linux 4.4.6, Puppy Linux 4.1, Xubuntu 8.04, Fedora 9 Live 
+http://lifehacker.com/5069054/battle-of-the-thumb-drive-linux-systems
+
+How to install Linux on a USB flash drive
+Posted at 4:03pm on Monday February 9th 2009
+http://www.tuxradar.com/content/how-install-linux-usb-flash-drive
+
 YUMI - Multiboot USB Creator (Windows)
 http://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 
