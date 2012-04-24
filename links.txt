@@ -57,6 +57,10 @@ http://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 Universal USB Installer - Easy as 1 2 3 3 (windows)
 http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
 
+Battle of the thumb drive linux distros
+posted Oct 30th 2008 11:00am by Caleb Kraft
+http://hackaday.com/2008/10/30/battle-of-the-thumb-drive-linux-distros/
+
 S.M.A.R.T. Linux is a bootable floppy distribution containing tool (smartmontools) for monitoring 
 IDE/SCSI hard disks 
 Good lists of software
