@@ -12,6 +12,15 @@ Boot disk
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/Boot_disk
 
+Howto make a Linux and Windows dual boot USB flash disk/drive
+Joseph Mack
+jmack (at) austintek (dot) com 
+http://www.austintek.com/dual_boot_usb_flash_drive/
+
+Setting Up A Windows-Linux Dual Boot System
+By Juergen Haas, About.com GuideApril 6, 2006
+http://linux.about.com/b/2006/04/06/setting-up-a-windows-linux-dual-boot-system.htm
+
 Ultimate Boot CD (UBCD) <== This could be the tool to use.
 http://www.ultimatebootcd.com 
 
