@@ -23,6 +23,11 @@ Puppy Linux
 From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/Puppy_Linux
 
+How to download Puppy
+Latest 5.3.1 with 
+http://distro.ibiblio.org/puppylinux/
+http://puppylinux.org/main/How%20to%20download%20Puppy.htm
+
 How to obtain and install flash-Puppy
 http://www.puppylinux.com/flash-puppy.htm
 
