@@ -17,6 +17,12 @@ Learn about its anatomy, creation, and use in the Linux boot process
 M. Tim Jones, Consultant Engineer, Emule
 http://www.ibm.com/developerworks/linux/library/l-initrd/index.html
 
+Distributions : Floppy
+http://www.linuxlinks.com/Distributions/Floppy/
+
+Creating a bootable RAMDISK
+http://ubuntuforums.org/archive/index.php/t-917042.html
+
 Howto make a Linux and Windows dual boot USB flash disk/drive
 Joseph Mack
 jmack (at) austintek (dot) com 
