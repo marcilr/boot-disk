@@ -3,9 +3,10 @@ Created Wed Mar  7 06:48:55 AKST 2012
 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-A boot disk is a removable digital data storage medium from which a computer can load and run
-(boot) an operating system or utility program.  The computer must have a built-in program which
-will load and execute a program from a boot disk meeting certain standards.
+A boot disk is a removable digital data storage medium from which a computer
+can load and run (boot) an operating system or utility program.  The computer
+must have a built-in program which will load and execute a program from a boot
+disk meeting certain standards.
 
 Boot disks are used for:
 o Operating system installation
@@ -14,8 +15,8 @@ o Data purging
 o Hardware or software troubleshooting
 o Customizing an operating environment
 o Software demonstration
-o Administrative access in case of lost password is possible with an appropriate boot disk with
-some operating systems.
+o Administrative access in case of lost password is possible with an
+  appropriate boot disk with some operating systems.
 o Games (e.g. for Amiga home computers)
 
 
@@ -24,12 +25,13 @@ wikipedia.org/
 
 Linux Distro
 ============
-Puppy Linux belongs to the family of ultra small linux distributions.  Weighing in at under 100MB,
-it can easily be loaded on everything from a CD to a USB drive.  The user interface is friendly
-even for a non-Linux user, and the basic tools you need for partitioning and file recovery are
-readily available - although it's just as great for web browsing and basic computing.  Puppy Linux
-also has a rather handy feature: If you burn it to a re-writable CD, you can save your user
-settings for your next session.
+Puppy Linux belongs to the family of ultra small linux distributions.
+Weighing in at under 100MB, it can easily be loaded on everything from a CD to
+a USB drive.  The user interface is friendly even for a non-Linux user, and
+the basic tools you need for partitioning and file recovery are readily
+available - although it's just as great for web browsing and basic computing.
+Puppy Linux also has a rather handy feature: If you burn it to a re-writable
+CD, you can save your user settings for your next session.
 
 lifehacker.com/
 
